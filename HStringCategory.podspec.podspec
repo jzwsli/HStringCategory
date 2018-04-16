@@ -6,14 +6,14 @@ Pod::Spec.new do |s|
   s.summary      = "字符串的分类"
 
   s.description  = <<-DESC
-字符串的分类-修改了不分类的不知道什么东西
+for me
                    DESC
 
   s.homepage     = "https://github.com/jzwsli/HStringCategory"
 
   s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
 
-  s.author             = { "lzr" => "532028798@qq.com.com" }
+  s.author             = { "lzr" => "532028798@qq.com" }
 
   s.platform     = :ios
 
